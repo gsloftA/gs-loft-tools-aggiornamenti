@@ -1,4 +1,4 @@
 {
- "dati": "{\"versione\":\"3.10.1\",\"minApp\":\"3.5.1\",\"data\":\"2026-10-27T15:04:49.174Z\",\"serie\":1793113489174,\"pacchetto\":\"pacchetti/gs-loft-tools-3.10.1.json\",\"sha256\":\"0ef4d78f094dbe9533bc2cbedd8a072f74808b3d568623093a7b5ec1744367c5\",\"feedback\":{\"repo\":\"gsloftA/gs-loft-tools-aggiornamenti\",\"token\":\"si8PAD5cfspnWT1nYBOBTUnQQMMtXytE2ruBym6KK7Skdtg0azxBDQ3OwPyCrv18/dgZ2nCqXqhAKtGldwU6pl64qYMLnQXeASVJyAeinpBm+XxD5czP/iRcnpE7TcvsiTTsmgCa0mBDyoH0xRlpN+ow7n7fIluYFQ==\"}}",
- "firma": "ThATiFwW2qAjE+NAzZLy/EK5awq64m1jhLfhkvMw+AhuHcQEbf12R3LBdirCDxaNIkRHhlG5ltgSfTCWbRlzCA=="
+ "dati": "{\"versione\":\"3.10.2\",\"minApp\":\"3.5.1\",\"data\":\"2026-10-27T15:08:46.392Z\",\"serie\":1793113726392,\"pacchetto\":\"pacchetti/gs-loft-tools-3.10.2.json\",\"sha256\":\"26ef237c34e5078e45c71c9a7d230f6ef147712199f25958cb3af53ce765a1f9\",\"feedback\":{\"repo\":\"gsloftA/gs-loft-tools-aggiornamenti\",\"token\":\"si8PAD5cfspnWT1nYBOBTUnQQMMtXytE2ruBym6KK7Skdtg0azxBDQ3OwPyCrv18/dgZ2nCqXqhAKtGldwU6pl64qYMLnQXeASVJyAeinpBm+XxD5czP/iRcnpE7TcvsiTTsmgCa0mBDyoH0xRlpN+ow7n7fIluYFQ==\"}}",
+ "firma": "T4Def+dGcNg+lnMipEqkkgQJLX0UUNxmyYee9A5EoinQD0VBxHHd5jSbOwRJbwop0icG/Hsq+UO/LwLo8rRnAw=="
 }
