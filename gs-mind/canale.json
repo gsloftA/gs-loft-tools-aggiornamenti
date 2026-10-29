@@ -1,4 +1,4 @@
 {
- "dati": "{\"versione\":\"2.2.0\",\"minApp\":\"2.2.0\",\"data\":\"2026-10-29T08:35:07.359Z\",\"serie\":1793262907359,\"pacchetto\":\"pacchetti/gs-mind-2.2.0.json\",\"sha256\":\"b9e01f1eb4deb51225a2a1cce71c38b8470ef8ae9755eaf1f2b5cc3da285538c\"}",
- "firma": "nzXJCRfI2sZCbkkEE7F2+G+LQYYm9pQDdJkhplzxmezPA7Q7cnTAo2JYfxUFRRzmO+KoRsXCWZqtUwRzOqQ3Dw=="
+ "dati": "{\"versione\":\"2.3.0\",\"minApp\":\"2.2.0\",\"data\":\"2026-10-29T09:00:21.669Z\",\"serie\":1793264421669,\"pacchetto\":\"pacchetti/gs-mind-2.3.0.json\",\"sha256\":\"1f16e11e5507cd7455b051de18eeb0a24851892b281e5b61d4c823c88e5a417e\"}",
+ "firma": "q2BoWwzW+ArYJ5vB7312D5mZwB6ABNg43F6ZPobPEyhEpd2MGgtEE5G9uRehax5rmGb8Hs3lDXR8FoKr+YjvCQ=="
 }
