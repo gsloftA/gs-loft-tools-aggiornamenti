@@ -1,4 +1,4 @@
 {
- "dati": "{\"versione\":\"3.0.5\",\"minApp\":\"2.2.0\",\"data\":\"2026-11-11T14:59:36.658Z\",\"serie\":1794409176658,\"pacchetto\":\"pacchetti/gs-mind-3.0.5.json\",\"sha256\":\"1080b90c5c785844b806449728fc3fd9f0e361a2da8a6fb76033664f5d8f988a\",\"memoria\":{\"repo\":\"GS-Loft-Dev/gs-mind-memoria\",\"token\":\"+ZUX8/UZeB7qCxqO1vi01+ypvpw4WjYnCBbC55y2OAh30CqkZvr7/WMJgALuYxm0n2/DrXk1y7B/dpnVvQZhu9qsaQXiCq2zNUY2A0N9y8iahyxgsqTaHUglKy+VWstbCPJqe6GPICFhlMYAG4cm7t6TVLcoxLFK6A==\"}}",
- "firma": "/iVIumvSUkSdoHsksKNHMBLYAIuaoiuXDfecCGqEb5CG/qumcc3tlrZ2YA9ZBM1xKiIYI2gc1PAWGJdDgtXkAg=="
+ "dati": "{\"versione\":\"3.0.6\",\"minApp\":\"2.2.0\",\"data\":\"2026-11-11T15:02:12.472Z\",\"serie\":1794409332472,\"pacchetto\":\"pacchetti/gs-mind-3.0.6.json\",\"sha256\":\"bcee18302c89c895c64aa955f1c317f5a2c7d9862862d340ed0243ae26b4be17\",\"memoria\":{\"repo\":\"GS-Loft-Dev/gs-mind-memoria\",\"token\":\"N80X5cVw+jyt8KMBNBtZGxerRyAdwr+0Xb/zPLaD0kDNWnvF6e5lWcflP5mox2LQ9hrB6zgKDGPBKoMsviWBNglHrf0DXJbvpW10f6PaVVYuDI+sXuzQFlSlCyxQgtppHu9f1MrPVQOYQEyqDvPIJLKgbb3d8sNOOQ==\"}}",
+ "firma": "zNWnIdRakO5nH2ilMX47JogQ+dSygbyua3m/dIxS9xLaqz1luJWHdlDq+BJEX3GM68g6+ZXujGg4QTNjxSayBA=="
 }
